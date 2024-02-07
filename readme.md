@@ -3,7 +3,7 @@
 ## セットアップ
 
 1. `a.py`を開きます。
-2. `WHITELIST_PATH = 'YOUR JSON FILE PATH'`の`YOUR JSON FILE PATH`に、サーバーの`whitelist.json`のファイルパスを設定してください。
+2. `WHITELIST_PATH = 'YOUR JSON FILE PATH'`の`YOUR JSON FILE PATH`に、サーバーの`whitelist.json`のファイルパスを設定してください。(C:\\User\\test\\のように、バックスラッシュ or 半角の￥マーク二つで区切ってください。)
 3. `client.run("YOUR TOKEN")`の`YOUR TOKEN`に、botのTOKENを設定してください。
 
 ## 利用規約
