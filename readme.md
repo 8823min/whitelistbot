@@ -5,6 +5,8 @@
 1. `a.py`を開きます。
 2. `WHITELIST_PATH = 'YOUR JSON FILE PATH'`の`YOUR JSON FILE PATH`に、サーバーの`whitelist.json`のファイルパスを設定してください。(C:\\User\\test\\のように、バックスラッシュ or 半角の￥マーク二つで区切ってください。)
 3. `client.run("YOUR TOKEN")`の`YOUR TOKEN`に、botのTOKENを設定してください。
+4. aiohttpとasyncioをpipでインストールし、a.pyを起動してください。
+5. botを導入したサーバーでスラッシュコマンドが登録されてるかどうかをご確認ください。
 
 ## 利用規約
 
